@@ -1,0 +1,39 @@
+
+
+img.brand-logo-edit {
+    height: 62px;
+    width: auto;
+}
+
+#letter-sec-gen {
+    margin: 20px;
+}
+
+#sec-gen {
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 400px;
+    
+}
+
+body.landing-page  {
+    background: url(../img/background.jpg) no-repeat scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
+.slideshow {
+    margin-top: 50px;
+}
+
+.team-page-image {
+    max-height: 180px;
+    width: auto;
+}
+.special {
+    padding-left: 50px;
+}
